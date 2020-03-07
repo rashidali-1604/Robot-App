@@ -36,7 +36,3 @@ Obstacles are declared at the top of the file before any journeys, any obstacles
 Adjust your program so that any journey in a file with obstacles checks at each step that it has not collided with the obstacle. 
 If it does then the output should be "CRASHED" followed by the coordinates, for example "CRASHED 1 1"
 
-Write your code as though it was for a real project: make it maintainable, readable and clean. 
-You may write unit tests and use a test framework of your choosing. 
-You may use any of the LanguageExt nuget packages if you want although this is not mandatory.
-Please do not use any other nuget packages.
